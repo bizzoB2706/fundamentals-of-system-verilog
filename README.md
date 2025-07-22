@@ -1,5 +1,5 @@
 # fundamentals-of-system-verilog
-blocking and non-blocking 
+Blocking and Non-Blocking 
 <br>
 Blocking Assignment (=)
 Executes sequentially, line by line.
